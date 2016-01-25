@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```Victor Hugo``` ```:author_username``` ```https://about.me/victoranjos``` ```victorhsanjos@gmail.com``` ```victorhsanjos``` ```padroes-de-projeto``` ```Pacote com exemplos de padroes de projetos em PHP.``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
+**Note:** Replace ```Victor Hugo``` ```victorhsanjos``` ```https://about.me/victoranjos``` ```victorhsanjos@gmail.com``` ```victorhsanjos``` ```padroes-de-projeto``` ```Pacote com exemplos de padroes de projetos em PHP.``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -18,13 +18,6 @@ Via Composer
 
 ``` bash
 $ composer require victorhsanjos/padroes-de-projeto
-```
-
-## Usage
-
-``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
 ```
 
 ## Change log
@@ -48,7 +41,6 @@ If you discover any security related issues, please email victorhsanjos@gmail.co
 ## Credits
 
 - [Victor Hugo][link-author]
-- [All Contributors][link-contributors]
 
 ## License
 
@@ -66,5 +58,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-scrutinizer]: https://scrutinizer-ci.com/g/victorhsanjos/padroes-de-projeto/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/victorhsanjos/padroes-de-projeto
 [link-downloads]: https://packagist.org/packages/victorhsanjos/padroes-de-projeto
-[link-author]: https://github.com/:author_username
+[link-author]: https://github.com/victorhsanjos
 [link-contributors]: ../../contributors
